@@ -50,7 +50,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyDYzCQ00msJ5sapuza9tSZ3TeKrjemZ5KI" />
+            android:value="com.asmarainnovations.taxi.Configuration_Data.API_KEY"   />
 
         <activity
             android:name=".RiderLogin"
