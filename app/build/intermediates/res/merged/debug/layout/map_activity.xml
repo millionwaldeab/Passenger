@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+<FrameLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mapLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent" />
+
+    <!--tools:layout="@layout/map_activity" this line was removed from fragment so design mode works-->
+    <!--  <com.google.android.gms.maps.MapView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" />-->
+    <LinearLayout
+        android:id="@+id/locationMarker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!--android:background="@drawable/cab_list_container_shorter"-->
+        <TextView
+            android:id="@+id/tvlocationMarkertext"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:minWidth="180dp"
+
+            android:background="@drawable/rounded_button"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text=" Set your Location "
+            android:textColor="@android:color/black" />
+            <TextView
+                android:id="@+id/tvarrival_time_counter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_toRightOf="@+id/tvlocationMarkertext"
+                android:background="@drawable/marrival_time_counter"
+                android:textColor="@android:color/black" />
+        </RelativeLayout>
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:src="@drawable/custom_location_icon_m" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/addressLayout"
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" >
+    <!--<TextView
+        android:id="@+id/tvUseLocation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:text="@string/app_name"
+        android:textColor="?android:textColorSecondary" />-->
+<LinearLayout
+
+        android:id="@+id/menuLayout"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_button"
+        android:gravity="center"
+        android:weightSum="3"
+        android:layout_marginRight="5dp"
+        tools:context="com.asmarainnovations.taxi.MapActivity">
+    <!--android:background="@drawable/cab_list_container_shorter"-->
+            <TextView
+                android:id="@+id/tvRegular"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_selected"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:text="@string/regular_cab"/>
+
+            <TextView
+                android:id="@+id/tvVan"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:text="@string/van"/>
+
+            <TextView
+                android:id="@+id/tvHandicapped"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:text="@string/handicap_accessible"/>
+
+    </LinearLayout>
+    <!--added paddingtop to let the mylocation button space to be clickable-->
+    <AutoCompleteTextView
+        android:id="@+id/actvriderlocation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:completionThreshold="5" />
+
+        <requestFocus />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom">
+        <AutoCompleteTextView
+            android:id="@+id/actvDestination"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="@string/destination_hint"
+            android:completionThreshold="3" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <Button
+                android:id="@+id/bsendmylocation"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/blue_button"
+                android:text="@string/send_location" />
+
+            <Button
+                android:id="@+id/bcancelRequest"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/blue_button"
+                android:text="@string/cancel_request" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/bDestination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/blue_button"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/destination" />
+    </LinearLayout>
+</FrameLayout>
+
+    <ListView
+        android:id="@+id/MenuList"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:background="@color/black">
+    </ListView>
+</android.support.v4.widget.DrawerLayout>

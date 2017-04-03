@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\\output\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\7.8.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\7.8.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\\output\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\7.8.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\7.8.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\\output\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\\output\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\\output\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    }
+]

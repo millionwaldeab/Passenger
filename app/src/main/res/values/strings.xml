@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultSenderId">test</string>
+    <string name="app_name">MCHOT</string>
+    <string name="action_settings">Settings</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="send_location">Request a Cab</string>
+    <string name="send_message">Send Message</string>
+    <string name="cab_arrived">Your cab has arrived</string>
+    <string name="destination_hint">Enter destination here and click destination button.</string>
+    <string name="submit_contact_us">Submit</string>
+    <string name="locatoricon">Your Location</string>
+    <string name="riderlocation">My Location</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="tel">Telephone</string>
+    <string name="regular_cab">REGULAR</string>
+    <string name="van">VAN</string>
+    <string name="handicap_accessible">HANDICAP ACSBL</string>
+    <string name="valid_number_format">Number WITHOUT dashes</string>
+    <string name="signup">SIGN UP</string>
+    <string name="destination">Destination</string>
+    <!--errors and notifications-->
+    <string name="update_googleplay">Please install or update your Google Play Services on your phone</string>
+    <string name="no_address_found">Sorry, no address was found</string>
+    <string name="service_not_available">Sorry, service is unavailable now</string>
+    <string name="invalid_lat_lon">Invalid latitude/longitude</string>
+    <string name="no_geocoder_available">There is no valid geocoder available</string>
+    <string name="enable_location">Please enable coarse and fine location in your settings for the app to work properly</string>
+    <string name="no_requested_cabs">Unfortunately there is no cab of your requested type. Please try again later.</string>
+    <string name="address_found">Possible address</string>
+    <string name="address_not_found">No address found</string>
+    <string name="website_name">www.asmarainnovations.com</string>
+    <string name="your_taxi">Your Taxi at The Palm of Your Hands</string>
+    <string name="cancel_request">Cancel Request</string>
+    <string name="invalid_input">INVALID INPUT</string>
+    <string name="enter_verification_code">Enter verification code here.</string>
+    <string name="misc_Title">Miscellaneous stuff</string>
+    <string name="contact_us_Title">Contact Us</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="promotions">Promotions</string>
+    <string name="no_promotions">Sorry, currently there are no promotions</string>
+    <string name="you_agree_to_terms">By clicking to the above button you agree to the terms and conditions of this app.</string>
+    <string name="terms_and_conditions_title">Terms and Conditions</string>
+    <string name="terms_and_conditions_content"></string>
+</resources>

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\6f153a1101cc29081b9675a5223266b766aa406f\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\\output\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\\output\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\7.8.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\7.8.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Million\\.android\\build-cache\\6f153a1101cc29081b9675a5223266b766aa406f\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    }
+]

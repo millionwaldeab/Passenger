@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:2:1-200:12
+	package
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Million\.android\build-cache\1b9bc374e704b899e8057c918b3d1184a7760005\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Million\.android\build-cache\629f68363ccc1bbad3a1075253aa60572f11beed\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Million\.android\build-cache\4abc09e80bb55bf95ad5a75f29ade65570ffa642\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Million\.android\build-cache\65b364501522244f38c5c0826ee3aced71902a32\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Million\.android\build-cache\7a7e6e50249fbdba264804a87b12f55e47cc9d26\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Million\.android\build-cache\5d0cc2275b6217484d87daef98d1559afaa68ea2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\Million\.android\build-cache\758405915659e11966fc52b8431a8e271937c1f6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Million\.android\build-cache\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Million\.android\build-cache\f2c47916a14482550c8b3bde3ba8a547929b1703\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Million\.android\build-cache\14eba8a0da0dc3f5213475c57dbc97ea8406a990\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Million\.android\build-cache\f555a1f2be7a6e451ee816c20405db8196e067ec\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Million\.android\build-cache\4f9543b907365a7b63a119b9a6d083a3142b93a0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Million\.android\build-cache\d575f18e1a67ac0edd3e825ebeeac2c599ac2387\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Million\.android\build-cache\f07bf2c161b3e6fad4998a582d616c765e9048a2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Million\.android\build-cache\4809e77898e40c91310e60e936b226e6c8ba49a7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Million\.android\build-cache\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Million\.android\build-cache\a3514d5bc9d7d8f978c3cf702ca5796985f0829e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Million\.android\build-cache\1f689dddcccd608e2f85fc4cec2a332a5b533ab3\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Million\.android\build-cache\6f153a1101cc29081b9675a5223266b766aa406f\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Million\.android\build-cache\8841c522b160ee1181b30edc265587e98e499dde\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Million\.android\build-cache\e90a9d8e83fcc6d723fb4707b8d43356974ab674\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Million\.android\build-cache\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Million\.android\build-cache\7c3926336e6b0c7c04e052a1e36616ea1fdee0d5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Million\.android\build-cache\87fbd0c7adb8259a04a0e383c8d74d51049b492b\output\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml
+library
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:11:5-16
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Million\.android\build-cache\629f68363ccc1bbad3a1075253aa60572f11beed\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Million\.android\build-cache\f07bf2c161b3e6fad4998a582d616c765e9048a2\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.BATTERY_STATS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Million\.android\build-cache\629f68363ccc1bbad3a1075253aa60572f11beed\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Million\.android\build-cache\65b364501522244f38c5c0826ee3aced71902a32\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Million\.android\build-cache\4f9543b907365a7b63a119b9a6d083a3142b93a0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Million\.android\build-cache\6f153a1101cc29081b9675a5223266b766aa406f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:18:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:20:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:23:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:24:5-98
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:24:22-95
+uses-permission#com.asmarainnovations.taxi.permission.MAPS_RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:25:5-90
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:25:22-87
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#com.asmarainnovations.taxidriver.permission.C2D_MESSAGE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:27:5-95
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:27:22-92
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:28:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Million\.android\build-cache\6f153a1101cc29081b9675a5223266b766aa406f\output\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#com.asmarainnovations.taxi.c2dm.permission.RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:29:5-90
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:29:22-87
+uses-feature#0x00020000
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:31:5-33:35
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:32:9-41
+	android:required
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:33:9-32
+permission#com.asmarainnovations.taxi.permission.MAPS_RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:35:5-37:47
+	android:protectionLevel
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:36:9-74
+permission#com.asmarainnovations.taxi.c2dm.permission.RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:38:5-85
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:38:17-82
+permission#com.asmarainnovations.taxidriver.permission.C2D_MESSAGE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:39:5-41:47
+	android:protectionLevel
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:40:9-79
+application
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:43:5-198:19
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Million\.android\build-cache\1b9bc374e704b899e8057c918b3d1184a7760005\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Million\.android\build-cache\629f68363ccc1bbad3a1075253aa60572f11beed\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Million\.android\build-cache\4abc09e80bb55bf95ad5a75f29ade65570ffa642\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Million\.android\build-cache\65b364501522244f38c5c0826ee3aced71902a32\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Million\.android\build-cache\7a7e6e50249fbdba264804a87b12f55e47cc9d26\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Million\.android\build-cache\5d0cc2275b6217484d87daef98d1559afaa68ea2\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\Million\.android\build-cache\758405915659e11966fc52b8431a8e271937c1f6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Million\.android\build-cache\2569b1f8e96b66f4d2124dc0ee267d829b8414c8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Million\.android\build-cache\f2c47916a14482550c8b3bde3ba8a547929b1703\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Million\.android\build-cache\14eba8a0da0dc3f5213475c57dbc97ea8406a990\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Million\.android\build-cache\f555a1f2be7a6e451ee816c20405db8196e067ec\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Million\.android\build-cache\4f9543b907365a7b63a119b9a6d083a3142b93a0\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Million\.android\build-cache\d575f18e1a67ac0edd3e825ebeeac2c599ac2387\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Million\.android\build-cache\f07bf2c161b3e6fad4998a582d616c765e9048a2\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Million\.android\build-cache\4809e77898e40c91310e60e936b226e6c8ba49a7\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Million\.android\build-cache\1171bfcde6d82c07bbd75345ce8c3ac020cebdec\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Million\.android\build-cache\a3514d5bc9d7d8f978c3cf702ca5796985f0829e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Million\.android\build-cache\1f689dddcccd608e2f85fc4cec2a332a5b533ab3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Million\.android\build-cache\8841c522b160ee1181b30edc265587e98e499dde\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Million\.android\build-cache\5bab4854ec49873d4a54221ec458937b0fa8b3ea\output\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Million\.android\build-cache\e90a9d8e83fcc6d723fb4707b8d43356974ab674\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Million\.android\build-cache\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Million\.android\build-cache\7c3926336e6b0c7c04e052a1e36616ea1fdee0d5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Million\.android\build-cache\87fbd0c7adb8259a04a0e383c8d74d51049b492b\output\AndroidManifest.xml:7:5-11:19
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:46:9-41
+	android:allowBackup
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:45:9-42
+	android:theme
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:47:9-56
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:48:9-50:69
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Million\.android\build-cache\2f47c9a64c88b98fc7dd0674da0fb96b5c97765c\output\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] C:\Users\Million\.android\build-cache\87fbd0c7adb8259a04a0e383c8d74d51049b492b\output\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:49:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:51:9-53:71
+	android:value
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:53:13-68
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:52:13-62
+activity#com.asmarainnovations.taxi.RiderLogin
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:55:9-65:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:57:13-45
+	android:noHistory
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:58:13-37
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:56:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:63:27-74
+activity#com.asmarainnovations.taxi.MainActivity
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:66:9-75:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:68:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:69:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:67:13-41
+intent-filter#android.intent.action.MAINACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:70:13-74:29
+action#android.intent.action.MAINACTIVITY
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:71:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:73:27-73
+activity#com.asmarainnovations.taxi.MapActivity
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:76:9-85:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:78:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:79:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:77:13-40
+intent-filter#android.intent.action.MAPACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAPACTIVITY
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:81:25-73
+activity#com.asmarainnovations.taxi.Promotions
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:86:9-95:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:88:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:89:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:87:13-39
+intent-filter#android.intent.action.PROMOTIONS+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:90:13-94:29
+action#android.intent.action.PROMOTIONS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:91:17-75
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:91:25-72
+activity#com.asmarainnovations.taxi.Legal
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:96:9-105:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:98:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:99:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:97:13-34
+intent-filter#android.intent.action.LEGAL+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:100:13-104:29
+action#android.intent.action.LEGAL
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:101:17-70
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:101:25-67
+activity#com.asmarainnovations.taxi.ContactUs
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:106:9-115:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:108:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:109:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:107:13-38
+intent-filter#android.intent.action.CONTACTUS+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:110:13-114:29
+action#android.intent.action.CONTACTUS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:111:17-74
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:111:25-71
+activity#com.asmarainnovations.taxi.Miscellaneous
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:116:9-125:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:118:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:119:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:117:13-42
+intent-filter#android.intent.action.MISCELENEOUS+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:120:13-124:29
+action#android.intent.action.MISCELENEOUS
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:121:17-77
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:121:25-74
+activity#com.asmarainnovations.taxi.ContactDriver
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:126:9-135:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:128:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:129:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:127:13-42
+intent-filter#android.intent.action.CONTACTDRIVER+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:130:13-134:29
+action#android.intent.action.CONTACTDRIVER
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:131:17-78
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:131:25-75
+activity#com.asmarainnovations.taxi.VerificationCode
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:136:9-145:20
+	android:label
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:138:13-45
+	android:logo
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:139:13-54
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:137:13-45
+intent-filter#android.intent.action.VERIFICATIONCODE+android.intent.category.DEFAULT
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:140:13-144:29
+action#android.intent.action.VERIFICATIONCODE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:141:17-81
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:141:25-78
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:157:9-170:20
+	android:permission
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:159:13-73
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:158:13-66
+intent-filter#com.asmarainnovations.taxi+com.asmarainnovations.taxidriver+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:160:13-169:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:163:17-81
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:163:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:165:17-86
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:165:25-83
+category#com.asmarainnovations.taxi
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:167:17-71
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:167:27-68
+category#com.asmarainnovations.taxidriver
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:168:17-77
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:168:27-74
+receiver#com.asmarainnovations.taxi.RiderLogin$RegistrationResponseReceiver
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:171:9-177:20
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:171:19-74
+intent-filter#android.intent.category.DEFAULT+com.asmarainnovations.taxi.Login.RegistrationResponseReceiver.ACTION_RESP
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:172:13-176:29
+action#com.asmarainnovations.taxi.Login.RegistrationResponseReceiver.ACTION_RESP
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:173:17-116
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:173:25-113
+service#com.asmarainnovations.taxi.MapActivity$MyGcmListenerService
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:178:9-184:19
+	android:exported
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:180:13-37
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:179:13-61
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:181:13-183:29
+service#com.asmarainnovations.taxi.RiderLogin$MyInstanceIDListenerService
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:185:9-191:19
+	android:exported
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:187:13-37
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:186:13-67
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:188:13-190:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:189:17-80
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:189:25-77
+service#com.asmarainnovations.taxi.RegistrationIntentService
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:192:9-62
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:192:18-59
+service#com.asmarainnovations.taxi.GeocoderDestinationIntentService
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:193:9-95
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:193:18-92
+service#com.asmarainnovations.taxi.FetchAddressIntentService
+ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:194:9-196:40
+	android:exported
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:196:13-37
+	android:name
+		ADDED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:195:13-54
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Million\.android\build-cache\727c5d893ef36623001b575ae15410171dd33639\output\AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Million\.android\build-cache\4f9543b907365a7b63a119b9a6d083a3142b93a0\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Million\.android\build-cache\4f9543b907365a7b63a119b9a6d083a3142b93a0\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Million\.android\build-cache\6f153a1101cc29081b9675a5223266b766aa406f\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Million\.android\build-cache\6f153a1101cc29081b9675a5223266b766aa406f\output\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Million\AndroidStudioProjects\TAXI\app\src\main\AndroidManifest.xml:2:1-200:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE

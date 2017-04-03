@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <fragment
+        android:id="@+id/mymapmap"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" /> 
+
+    <LinearLayout
+        android:id="@+id/mymapaddressLayout"
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" >
+    <TextView
+        android:id="@+id/tvmymapfrom"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/from"
+        android:textColor="?android:textColorSecondary" />
+
+    <AutoCompleteTextView
+        android:id="@+id/actvmymapfrom"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="fill_horizontal"
+        android:completionThreshold="3" />
+
+    <TextView
+        android:id="@+id/tvmymapto"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/to"
+        android:textColor="?android:textColorSecondary" />
+
+    <AutoCompleteTextView
+        android:id="@+id/actvmymapto"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="fill_horizontal"
+        android:completionThreshold="3" />
+
+    <Button
+        android:id="@+id/bmymapsenddirections"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="fill_horizontal"
+        android:text="@string/send_location" />
+    
+</LinearLayout>
+    
+
+</LinearLayout>

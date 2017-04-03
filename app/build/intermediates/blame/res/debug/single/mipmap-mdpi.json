@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\actionbar_cab_icon.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\src\\main\\res\\mipmap-mdpi\\actionbar_cab_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\activity_icon.png",
+        "source": "C:\\Users\\Million\\StudioProjects\\TAXI\\app\\src\\main\\res\\mipmap-mdpi\\activity_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\actionbar_cab_icon.png",
+        "source": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\src\\main\\res\\mipmap-mdpi\\actionbar_cab_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\activity_icon.png",
+        "source": "C:\\Users\\Million\\AndroidStudioProjects\\TAXI\\app\\src\\main\\res\\mipmap-mdpi\\activity_icon.png"
+    }
+]

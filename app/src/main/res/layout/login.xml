@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:paddingLeft="15sp"
+    android:paddingRight="15sp"
+    android:paddingTop="15sp"
+    android:paddingBottom="15sp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/register"
+        android:textColor="@color/yellow"
+        android:id="@+id/tvregister"
+        android:layout_gravity="center"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="15sp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:id="@+id/tvname"
+            android:textColor="@color/yellow"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_weight="25"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textColor="@color/yellow"
+            android:layout_weight="75"
+            android:id="@+id/etname" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="15sp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/tel"
+            android:id="@+id/tvtel"
+            android:textColor="@color/yellow"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_weight="30"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/valid_number_format"
+            android:inputType="phone"
+            android:textColor="@color/yellow"
+            android:layout_weight="70"
+            android:id="@+id/ettel" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/blue_button"
+        android:text="@string/signup"
+        android:id="@+id/bsignup" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_gravity="center"
+            android:textColor="@color/yellow"
+            android:text="@string/you_agree_to_terms"
+            android:id="@+id/tvterms" />
+    </LinearLayout>
+</LinearLayout>
